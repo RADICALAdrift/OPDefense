@@ -1,0 +1,9 @@
+author = Gez, Jellydounuts9941
+version = 1.6.1.5
+displayName = CrazyDefense
+homepage = https://forums.terraria.org/index.php?threads/released-wip-crazydefense.54803/#post-1212258
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = false
