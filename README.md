@@ -1,7 +1,7 @@
 # OPDefense
 OPDefense A Mod With Crazy Items And Armor
 Source Code Now Available
-Currennt Build Version 1.6.1.5, Next Build Version 1.6.1.6 (Soon Hopefully)
+Currennt Build Version 1.6.1.5, Next Build Version 1.6.1.6 (Ore Fix Pt.2)
 
 Yes Armor Textures Are From The Example Mod, Already Credited For The Forum Thread
 
