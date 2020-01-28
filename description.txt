@@ -58,4 +58,8 @@ v1.6.1.5
 Updated Ore Spawn Amount
 Too Much On Large Worlds
 
-Latest Version v1.6.1.5
+v1.6.1.6
+
+Ore Fix Pt.2
+
+Latest Version v1.6.1.6
