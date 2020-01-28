@@ -62,4 +62,8 @@ v1.6.1.6
 
 Ore Fix Pt.2
 
-Latest Version v1.6.1.6
+v1.6.1.7
+
+Mod Icon Meant To Be In v1.6.1.6
+
+Latest Version v1.6.1.7
