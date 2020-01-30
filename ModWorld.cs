@@ -22,7 +22,7 @@ namespace OPDefense
             tasks.Insert(ShiniesIndex + 1, new PassLegacy("Mod Ores", delegate (GenerationProgress progress)
             {
                 progress.Message = "Mod Ores";                                                                                                                                                                                                                     //Put your custom tile block name
-                for (int k = 0; k < (int)((double)(Main.maxTilesX * Main.maxTilesY) * 6E-05); k++)                                                                                                                                      //      |
+                for (int k = 0; k < (int)((double)(Main.maxTilesX * Main.maxTilesY) * 6E-04); k++)                                                                                                                                      //      |
                 {                                                                                                                                                                                                                      //       |
                     WorldGen.TileRunner(WorldGen.genRand.Next(0, Main.maxTilesX), WorldGen.genRand.Next((int)WorldGen.worldSurfaceLow, Main.maxTilesY), (double)WorldGen.genRand.Next(3, 6), WorldGen.genRand.Next(2, 6), mod.TileType("CraytaniumOreTile"), false, 0f, 0f, false, true);
                 }
