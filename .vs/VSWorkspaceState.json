@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Items",
     "\\Projectiles"
   ],
-  "SelectedNode": "\\Items\\GODHappyBDayBeam.cs",
+  "SelectedNode": "\\Projectiles\\HappyBDayBeam.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -41,4 +41,7 @@ Late Birthday Update (Now Three Years Old)
 Little Something To Celebrate
 Cheatsheet Recommended Method To Obtain 
 
-Latest Version v1.7.0.0
+Pt.2
+Incorrect Projectile Direction
+
+Latest Version v1.7.0.1

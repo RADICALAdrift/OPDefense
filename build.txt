@@ -1,5 +1,5 @@
 author = Gez, Jellydounuts9941
-version = 1.7.0.0
+version = 1.7.0.1
 displayName = CrazyDefense
 homepage = https://forums.terraria.org/index.php?threads/released-wip-crazydefense.54803/#post-1212258
 hideCode = false
